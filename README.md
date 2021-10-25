@@ -3,7 +3,7 @@
   <br>
   <a href="https://github.com/mkdirlove/web-clicker"><img src="https://raw.githubusercontent.com/mkdirlove/web-clicker/main/web-clicker.png" alt="web-clicker"></a>
   <br>
-  A simple auto clicker bot for lazy peoples.
+  A simple auto clicker bot for lazy peoples (for PC only).
   <br>
 </h1>
 
