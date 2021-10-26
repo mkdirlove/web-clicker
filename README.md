@@ -37,6 +37,6 @@
 # The variable $clock controls how long (in seconds) between each button press. #
 # Note that it may be difficult to kill this script if the time is too short.   #
 # Note that every device have different windows and mouse coordinates.          #
-# Use "xdotool getmouselocation --shell" for calibrating mouse coordinates.     #
+# Use "xdotool getmouselocation --shell" for tweaking mouse coordinates.        #
 #################################################################################
 ```
